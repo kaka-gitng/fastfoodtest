@@ -3,7 +3,7 @@
 
 This web-app is helpful to display various services, food items offered at each branch separately where Admins can add,edit and remove the food items for their specific branches and Customers can search,sort & filter the food items and order the food online & track the placed orders.
 
-This is a Full-Stack Web Project done by using the Technologies- Angular (HTML, CSS & Type Script) for Frontend; SPRING Boot as Middleware; JAVA, Data JPA for Backend and MySQL Database. Software used :  Visual Studio Code for Frontend, Intellij for Backend and MySQL DB.
+This is a Full-Stack Web Project done by using the Technologies- Angular (HTML, CSS & Type Script) for Frontend; SPRING Boot as Middleware; JAVA, Data JPA for Backend and MySQL Database. Software used :  Visual Studio Code for Frontend, Intellij for Backend and MySQL DB. Okay, good.
 
 # App Description 
 This application is a __3-tier__ application where we have : 
