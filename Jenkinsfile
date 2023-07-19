@@ -10,7 +10,7 @@ pipeline {
 
         stage("build & SonarQube analysis") {          
             steps {
-                dir('./fastfood_BackEnd/'){
+                dir('./fastfood_backend/'){
                     withSonarQubeEnv('SonarServer') {
                         sh 'mvn verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=kaka-gitng_fastfoodtest'
                         }
